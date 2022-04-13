@@ -1,8 +1,8 @@
-# HTML 태그 완성
+# 2. HTML 태그 완성
 
 > element : `<tag attribute>content</tag>`
 
-### 1. 태그는 Box 이거나 Item 이다.
+### 1) 태그는 Box 이거나 Item 이다.
 
 - Box
   - header
@@ -27,14 +27,14 @@
   - canvas
   - table
 
-### 2. Item은 block 과 inline 으로 구분된다.
+### 2) Item은 block 과 inline 으로 구분된다.
 
 - block
   - 한 줄을 다 차지
 - inline
   - 컨텐츠 내용만큼 차지
 
-### 3. HTML 태그 예시
+### 3) HTML 태그 예시
 
 - Box vs Item
 
